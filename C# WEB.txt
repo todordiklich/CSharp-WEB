@@ -1,0 +1,42 @@
+C# Web Basics - Web Server - HTTP Protocol - Nikolay Kostov - https://www.youtube.com/watch?v=f0sqOnKwIMg&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=2&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Web Server - Asynchronous Processing - Nikolay Kostov - https://www.youtube.com/watch?v=6ibb0RHTO8k&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=2&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Web Server - State Management - Nikolay Kostov - https://www.youtube.com/watch?v=rGFb9OJXJpw&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=3&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Workshop - Nikolay Kostov - https://www.youtube.com/watch?v=YPiuv8sljlY&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=4&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - MVC Introduction - Nikolay Kostov - https://www.youtube.com/watch?v=PDvQOQ42jaI&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=5&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Consulting Day - Nikolay Kostov - https://www.youtube.com/watch?v=MTzJ0as3RBo&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=6&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - MVC Advanced - View Engine - Nikolay kostov - https://www.youtube.com/watch?v=jy4owq-aR3g&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=7&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Workshop - Nikolay Kostov - https://www.youtube.com/watch?v=Hri4BW3o6w8&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=8&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - MVC Advanced - IOC AND DATA BINDING - Nikolay kostov - https://www.youtube.com/watch?v=DO_H4eLIwGA&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=9&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Workshop - Nikolay Kostov - https://www.youtube.com/watch?v=CItncWowEPY&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=10&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Exam Preparation - Nikolay Kostov - https://www.youtube.com/watch?v=kQMwXNFYzsg&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=11&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Workshop - януари 2020 - Николай Костов - https://www.youtube.com/watch?v=zm7VyEeyBuY&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=12&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Web Basics - Workshop - Web Application. Advanced CSS - Bootstrap - май 2019 - Николай Костов - https://www.youtube.com/watch?v=iG2UBr2fAqg&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=18&ab_channel=SoftwareUniversity%28SoftUni%29
+
+ASP.NET Core - ASP.NET Core Introduction - Nikolay Kostov - https://www.youtube.com/watch?v=L77Y4rXspGI&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=13&ab_channel=SoftwareUniversity%28SoftUni%29
+ASN.NET Core - Razor Views - Nikolay Kostov - https://www.youtube.com/watch?v=GowHCMX7QAM&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=14&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Consultation Day - Nikolay Kostov - https://www.youtube.com/watch?v=vUIDqujnS3k&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=15&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Application Flow, Filters & Middleware - Nikolay Kostov - https://www.youtube.com/watch?v=MGImtEJKeHk&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=16&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Working with Data - Nikolay Kostov - https://www.youtube.com/watch?v=jrqvRkOHqJA&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=17&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Workshop - Nikolay Kostov - https://www.youtube.com/watch?v=FC1netko7_I&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=19&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Web API - Nikolay Kostov - https://www.youtube.com/watch?v=WOfpc3-VPbQ&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=20&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - октомври 2020 - Consultation Day - Стоян Шопов - https://www.youtube.com/watch?v=ZYr0Mv0JBrQ&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=21&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Security & Identity - Nikolay Kostov - https://www.youtube.com/watch?v=itT73BVRuEQ&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=22&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Workshop - Nikolay Kostov - https://www.youtube.com/watch?v=wt-L_Dlf-n8&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=23&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core MVC - Razor Pages - юни 2019 - Николай Костов - https://www.youtube.com/watch?v=nRaNqJX48uw&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=24&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Testing - Nikolay Kostov - https://www.youtube.com/watch?v=hm5G4KRLdpk&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=25&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Project Architecture - Nikolay Kostov - https://www.youtube.com/watch?v=FkhPqmaVNtI&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=26&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Advanced Topics - Nikolay Kostov - https://www.youtube.com/watch?v=qLYeDAs0qjo&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=27&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Workshop - Nikolay Kostov - https://www.youtube.com/watch?v=ZIuQzAus5rc&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=28&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Consultation Day - Nikolay Kostov - https://www.youtube.com/watch?v=LQZlHAWsEyg&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=29&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - SignalR - Nikolay Kostov - https://www.youtube.com/watch?v=0sw5v3-1gbY&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=30&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Azure, Deployment & CI - Nikolay Kostov - https://www.youtube.com/watch?v=5c5m8Su7l1c&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=31&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Consultation Day - Стоян Шопов - https://www.youtube.com/watch?v=9_u6ymyWmiI&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=33&ab_channel=SoftwareUniversity%28SoftUni%29
+ASP.NET Core - Blazor - Nikolay Kostov - https://www.youtube.com/watch?v=OZ7JBDcZo3Y&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=34&ab_channel=SoftwareUniversity%28SoftUni%29
+
+Bootstrap 5 Beta - a game changer? - https://www.youtube.com/watch?v=oOtWMEl9Uyg&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=32&ab_channel=Keepcoding
+C# Masterclass - C# Tips and Tricks - октомври 2019 - Николай Костов - https://www.youtube.com/watch?v=KrTMzYhpo3E&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=35&ab_channel=SoftwareUniversity%28SoftUni%29
+C# Masterclass - Reflection - октомври 2019 - Николай Костов - https://www.youtube.com/watch?v=LkWis2vrUIE&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=36&ab_channel=SoftwareUniversity%28SoftUni%29
+Internet Explained - https://www.youtube.com/watch?v=1pSsIlU3T-s&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=37&ab_channel=SoftwareUniversity%28SoftUni%29
+Fundamentals - Git and GitHub - May 2020 - Ivaylo Papazov - https://www.youtube.com/watch?v=n60kNS09ZDs&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=38&ab_channel=SoftwareUniversity%28SoftUni%29
+C# OOP - Design Patterns - октомври 2019 - Николай Костов - https://www.youtube.com/watch?v=Dt_NOlqlSSQ&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=39&ab_channel=SoftwareUniversity%28SoftUni%29
+ML.NET - https://www.youtube.com/watch?v=dluB5VE1m1k&list=PLKPpv-nNe8-y0oTJa8mIOCTg0jOffVPSM&index=40&ab_channel=SoftwareUniversity%28SoftUni%29
